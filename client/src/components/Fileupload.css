@@ -1,0 +1,17 @@
+.upload {
+  display: flex;
+}
+
+.file-uploader {
+  width: 40%;
+}
+
+.custom-file-input {
+  border: 1px solid rgb(210, 226, 231);
+}
+
+.button {
+  width: 100%;
+  background: rgb(210, 226, 231);
+  border: none;
+}

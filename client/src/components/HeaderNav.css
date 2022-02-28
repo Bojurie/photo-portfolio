@@ -1,0 +1,26 @@
+.header {
+  height: 70px;
+  margin: 0 0 30px;
+  color: rgb(49, 65, 70);
+}
+
+.header-nav {}
+
+.header-nav-links {
+  display: flex;
+  margin: 0;
+  justify-content: flex-end;
+  align-content: center;
+  align-items: center;
+  height: 70px;
+}
+
+.header-nav-links__link {
+  list-style-type: none;
+  font-size: 17px;
+  text-transform: capitalize;
+  padding: 10px;
+  font-weight: 500;
+  border-bottom: 1px solid rgb(210, 226, 231);
+
+}
